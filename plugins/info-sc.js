@@ -1,5 +1,5 @@
 const plugin = {
-  commands: ['/sc'],
+  commands: ['/ig'],
   tags: ['info'],
   init: (bot, { buttonUrl }) => {
     bot.onText(/^\/sc$/, (msg) => {
@@ -9,7 +9,7 @@ const plugin = {
       const replyMarkup = {
         reply_markup: {
           inline_keyboard: [
-            [{ text: 'Script Bot', url: buttonUrl }],
+            [{ text: 'Follow Instagram', url: buttonUrl }],
           ],
         },
       };
