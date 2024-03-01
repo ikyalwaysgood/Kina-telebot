@@ -24,7 +24,7 @@ const plugin = {
           },
         };
 
-       bot.sendPhoto(chatId, 'https://telegra.ph/file/3ce993467ab4a4619a74e.jpg', { caption: responseMessage.message, parse_mode: 'Markdown', reply_to_message_id: msg.message_id, ...replyMarkup });                 
+       bot.sendPhoto(chatId, 'https://telegra.ph/file/5a9d33e6daff292833283.jpg', { caption: responseMessage.message, parse_mode: 'Markdown', reply_to_message_id: msg.message_id, ...replyMarkup });                 
       } catch (error) {
         console.error('Error:', error);
         bot.sendMessage(chatId, 'An error occurred while processing your request.',  { reply_to_message_id: msg.message_id });
