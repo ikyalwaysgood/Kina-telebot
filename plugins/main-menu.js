@@ -12,7 +12,7 @@ const plugin = {
       const uptimeMinutes = Math.floor(uptimeSeconds / 60);
       const uptimeHours = Math.floor(uptimeMinutes / 60);
 
-      let menuText = `Hi ${msg.from.username}\nI am an automated system (Telegram Bot) which will help you every day.\n\n`;
+      let menuText = `Hi ${msg.from.username}\nI am Kιɳα Bσƚ (Telegram Bot) which will help you every day.\n\n`;
       menuText += `┌  ◦ Uptime: ${uptimeHours} hours ${uptimeMinutes % 60} minutes ${uptimeSeconds % 60} seconds\n`;
       menuText += `│  ◦ Library: Telegraf\n`;
       menuText += `│  ◦ Hari: ${getDayName(now.getDay())}\n`;
