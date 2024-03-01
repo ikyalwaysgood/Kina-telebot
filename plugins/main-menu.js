@@ -46,7 +46,7 @@ const plugin = {
           reply_to_message_id: msg.message_id,
           reply_markup: {
             inline_keyboard: [
-              [{ text: 'Script Bot', url: buttonUrl }],
+              [{ text: 'Follow Instagram', url: buttonUrl }],
             ],
           },
         });
