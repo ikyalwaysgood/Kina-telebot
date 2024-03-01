@@ -1,7 +1,7 @@
 {
   "name": "kinabot-telegram",
   "version": "1.0.0",
-  "description": "<p align=\"center\">\r <img src=\"https://btch.pages.dev/file/9e4162d4034241953fdfb.jpg\" alt=\"BOT TELEGRAM\" width=\"400\"/>",
+  "description": "<p align=\"center\">\r <img src=\"https://telegra.ph/file/5a9d33e6daff292833283.jpg\" alt=\"BOT TELEGRAM\" width=\"400\"/>",
   "main": "beta.js",
   "directories": {
     "lib": "lib"
@@ -227,6 +227,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Iky Official",
   "license": "ISC"
 }
