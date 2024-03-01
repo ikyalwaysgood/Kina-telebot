@@ -1,9 +1,3 @@
-/*
-Created By Lann Telegram Bot Plugins
-Register Your Apikey in https://api.betabotz.eu.org
-Replace Your Key with the apikey that you get in your profile.
-*/
-
 module.exports = {
   ownerUsernames: ["@iky_reallysad"],//Your Username
   ownerNumber: "6285794908894",//Your Number 
