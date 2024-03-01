@@ -7,8 +7,8 @@ Crafted with the powerful `node-telegram-bot-api`, this bot employs a modular pl
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/ERLANRAHMAT/telebot
-   cd telebot
+   git https://github.com/ikyalwaysgood/Kina-telebot
+   cd Kina-telebot
    ```
 
 2. **Install dependencies:**
@@ -74,10 +74,3 @@ Hi, Betalann! I'm your automated Telegram Bot here to assist you daily.
   - `/remini`
   - `/hd`
 
-**Special Thanks to** 🙌
-
-1. [BOTCAHX](https://github.com/BOTCAHX)
-2. [ERLAN](https://github.com/ERLANRAHMAT)
-3. Telegram API
-
-Feel free to explore these features and let me know if you need any assistance! 🤖
