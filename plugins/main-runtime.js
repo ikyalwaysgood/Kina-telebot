@@ -19,7 +19,7 @@ const plugin = {
       const replyMarkup = {
         reply_markup: {
           inline_keyboard: [
-            [{ text: 'Script Bot', url: buttonUrl }],
+            [{ text: 'Follow Instagram', url: buttonUrl }],
           ],
         },
       };
